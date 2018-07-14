@@ -1,1 +1,2 @@
-# This repository will be used to do a pilot project on the "Code Repository" as well as figure out github. I'm hoping to totally just break stuff. To play with the technology and see it's usefulness.
+# This repository will be used to do a pilot project on the "Code Repository" as well as figure out github. 
+Totally just break stuff. Play with the technology to see it's usefulness.
